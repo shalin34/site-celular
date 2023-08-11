@@ -1,10 +1,10 @@
 @import url("styles/header.css");
 
 :root{
-
+ --color-de-fundo: rgb(113, 192, 192);
 }
 
 body {
-    
+ background-color: var(--color-de-fundo)    
 }
  
